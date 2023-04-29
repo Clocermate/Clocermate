@@ -47,6 +47,8 @@ I'm an indian full-stack developer building my version of the digital world one 
  <summary><h3>👨‍💻 Clocermate's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself Full Stack development with a dream to build my own websites. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world. And it worked out, but again, it became comfortable.I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own websites, my own product. And in order to do that, I'll be implmementing a few measures to streamline more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
    
+#
+   
 ###Support Me ❤
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ClocerMate" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
