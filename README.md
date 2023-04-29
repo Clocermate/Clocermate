@@ -38,6 +38,9 @@ I'm an indian full-stack developer building my version of the digital world one 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Clocermate&theme=gruvbox&border_radius=4.5)
 
 #
+   <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ClocerMate" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+  
+#
 
 <details>
  <summary><h3>👨‍💻 Clocermate's Coding Journey</h3></summary>
